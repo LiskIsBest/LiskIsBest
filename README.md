@@ -1,4 +1,4 @@
-# <a herf="https://github.com/LiskIsBest"><img height=40vh src="https://img.shields.io/badge/GitHub-Darien Moore-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+# <a herf="https://github.com/LiskIsBest"><img height=40vh src="https://img.shields.io/badge/GitHub-Darien Moore-100000?style=for-the-badge&logo=github&logoColor=white"></a><img height=40vh src="https://komarev.com/ghpvc/?username=LiskIsBest&style=for-the-badge&label=Profile+Visits">
 
 <a href="mailto:liskisbest@gmail.com"><img height=24vh src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a><img height=24vh src="https://img.shields.io/badge/Lisk%236969-7289DA?style=for-the-badge&logo=discord&logoColor=white"><a href="https://www.linkedin.com/in/darien-moore-280692225/"><img height=24vh src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="https://www.youtube.com/@lisk"><img height=24vh src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a><a href="https://osu.ppy.sh/users/12687897"><img height=24vh src="https://img.shields.io/badge/Osu-ff66aa?style=for-the-badge&logo=Osu&logoColor=white"></a>
 
@@ -19,9 +19,7 @@
 - [Mania-Cat](https://github.com/LiskIsBest/Mania-Cat-Lisk) <img height=19vh src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 ##### Operating systems
-
-<img height=19vh src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white"><img height=19vh src="https://img.shields.io/badge/Windows 11-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-
+<img height=19vh src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"><img height=19vh src="https://img.shields.io/badge/Windows 11-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 ---
 
 ##### [Railway.app referal link](https://railway.app?referralCode=YAPFrw)
