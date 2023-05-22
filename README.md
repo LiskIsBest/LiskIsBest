@@ -6,6 +6,8 @@
 
 ### Projects
 
+- [D2Utility.app](https://github.com/LiskIsBest/d2utility) <img height=19vh src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img height=19vh src="https://img.shields.io/badge/Fastapi-009485?style=for-the-badge&logo=fastapi&logoColor=white"><img height=19vh src="https://img.shields.io/badge/Railway-2C0A5C?style=for-the-badge&logo=railway&logoColor=white">
+
 - [Losuapi](https://github.com/LiskIsBest/Losuapi) <img height=19vh src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img height=19vh src="https://img.shields.io/badge/Osu api-ff66aa?style=for-the-badge&logo=Osu&logoColor=white">
 
 - [WeatherStackApi](https://github.com/LiskIsBest/WeatherStackApi) <img height=19vh src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
