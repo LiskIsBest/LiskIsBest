@@ -40,7 +40,7 @@
   </tr>
 </table>
 
-### Tech I know/use
+### Tech I know/use(d)
 <table style="width:800px">
   <tr>
     <td>Operation systems</td>
