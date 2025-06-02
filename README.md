@@ -53,11 +53,9 @@
     <td><img height="25vh" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"><img height="25vh" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"><img height="25vh" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></td>
   </tr>
   <tr>
-    <td>Browsers</td>
     <td>Tools</td>
   </tr>
   <tr>
-    <td><img height="25vh" src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white"><img height="25vh" src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"><img height="25vh" src="https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"></td>
     <td><img height="25vh" src="https://img.shields.io/badge/Jamf-40406F?style=for-the-badge"><img height="25vh" src="https://img.shields.io/badge/Selenium-4bcc5a?style=for-the-badge&logo=selenium&logoColor=white"><img height="25vh" src="https://img.shields.io/badge/ServiceNow-298D46?style=for-the-badge&logoColor=white"><img height="25vh" src="https://img.shields.io/badge/VScode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></td>
   </tr>
 </table>
